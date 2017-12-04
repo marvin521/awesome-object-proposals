@@ -183,7 +183,9 @@ A curated list of object proposals resources for object detection.
   * Andreas Geiger and Philip Lenz and Raquel Urtasun, [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf), CVPR, 2012.
 
 #### Object Detection
-  ![FastR-CNN](https://c1.staticflickr.com/1/715/32316133964_046a1c0f14_c.jpg)
+* RSA for Face Detection: 
+  *Yu Liu, Hongyang Li, Junjie Yan, Fangyin Wei, Xiaogang Wang, Xiaoou Tang, [Recurrent Scale Approximation for Object Detection in CNN](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Recurrent_Scale_Approximation_ICCV_2017_paper.pdf), ICCV, 2017.
+  ![FastR-CNN](https://c1.staticflickr.com/1/715/32316133964_046a1c0f14_c.jpg)
 * R-FCN [[Code]](https://github.com/daijifeng001/r-fcn)[[PyCode]](https://github.com/Orpine/py-R-FCN)
   * Jifeng Dai, Yi Li, Kaiming He, Jian Sun, [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/pdf/1605.06409.pdf), NIPS, 2016.
 * SSD [[Code]](https://github.com/weiliu89/caffe/tree/ssd)
