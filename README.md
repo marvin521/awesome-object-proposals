@@ -183,7 +183,11 @@ A curated list of object proposals resources for object detection.
   * Andreas Geiger and Philip Lenz and Raquel Urtasun, [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf), CVPR, 2012.
 
 #### Object Detection
-* RSA for Face Detection: 
+* SNMS:[[Code]](https://github.com/bharatsingh430/soft-nms)
+   *Navaneeth Bodla, Bharat Singh, Rama Chellappa, Larry S. Davis,[Soft-NMS -- Improving Object Detection With One Line of Code](http://openaccess.thecvf.com/content_ICCV_2017/papers/Bodla_Soft-NMS_--_Improving_ICCV_2017_paper.pdf), ICCV, 2017.
+* DAG: [[Code]](https://github.com/cihangxie/DAG)
+  *Cihang Xie, Jianyu Wang, Zhishuai Zhang, Yuyin Zhou, Lingxi Xie, Alan Yuille,[Adversarial Examples for Semantic Segmentation and Object Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xie_Adversarial_Examples_for_ICCV_2017_paper.pdf), ICCV, 2017.
+* RSA for Face Detection: [[Code]](https://github.com/sciencefans/RSA-for-object-detection)
   *Yu Liu, Hongyang Li, Junjie Yan, Fangyin Wei, Xiaogang Wang, Xiaoou Tang, [Recurrent Scale Approximation for Object Detection in CNN](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Recurrent_Scale_Approximation_ICCV_2017_paper.pdf), ICCV, 2017.
   ![FastR-CNN](https://c1.staticflickr.com/1/715/32316133964_046a1c0f14_c.jpg)
 * R-FCN [[Code]](https://github.com/daijifeng001/r-fcn)[[PyCode]](https://github.com/Orpine/py-R-FCN)
