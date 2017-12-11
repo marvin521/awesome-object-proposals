@@ -183,6 +183,8 @@ A curated list of object proposals resources for object detection.
   * Andreas Geiger and Philip Lenz and Raquel Urtasun, [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf), CVPR, 2012.
 
 #### Object Detection
+* Deformable CNN:[[Code]](https://github.com/msracver/Deformable-ConvNets)
+  * Yuwen Xiong, Haozhi Qi, Guodong Zhang, Yi Li, Jifeng Dai, Bin Xiao, Han Hu and Yichen Wei,[Deformable Convolutional Networks](http://www.jifengdai.org/slides/Deformable_Convolutional_Networks_Oral.pdf), ICCV Oral, 2017.
 * SNMS:[[Code]](https://github.com/bharatsingh430/soft-nms)
   * Navaneeth Bodla, Bharat Singh, Rama Chellappa, Larry S. Davis,[Soft-NMS -- Improving Object Detection With One Line of Code](http://openaccess.thecvf.com/content_ICCV_2017/papers/Bodla_Soft-NMS_--_Improving_ICCV_2017_paper.pdf), ICCV, 2017.
 * DAG: [[Code]](https://github.com/cihangxie/DAG)
