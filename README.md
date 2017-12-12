@@ -152,6 +152,8 @@ A curated list of object proposals resources for object detection.
   * Cuong C. Pham and Jae Wook Jeon, [Robust Object Proposals Re-ranking for Object Detection in Autonomous Driving Using Convolutional Neural Networks](http://www.sciencedirect.com/science/article/pii/S0923596517300231), SPIC, 2017.
 
 #### Spatio-Temporal
+* SST [[Project]](https://github.com/shyamal-b/sst)
+  * Shyamal Buch and Victor Escorcia and Chuanqi Shen and Bernard Ghanem and Juan Carlos Niebles, [{SST}: Single-Stream Temporal Action Proposals](http://vision.stanford.edu/pdf/buch2017cvpr.pdf), CVPR, 2017.
 * TURN TAP [[Project]](https://github.com/jiyanggao/TURN-TAP)
   * Jiyang Gao, Zhenheng Yang, Kan Chen, Chen Sun, Ram Nevatia, [TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals](http://openaccess.thecvf.com/content_ICCV_2017/papers/Gao_TURN_TAP_Temporal_ICCV_2017_paper.pdf), ICCV, 2017.
 * ReID Proposals [[Project_NULL]](#)
@@ -195,6 +197,8 @@ A curated list of object proposals resources for object detection.
   * Andreas Geiger and Philip Lenz and Raquel Urtasun, [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf), CVPR, 2012.
 
 #### Object Detection
+* LDDP:[[Code]](https://github.com/azadis/LDDP)
+  *Azadi, Samaneh and Feng, Jiashi and Darrell, Trevor,[LDDP: Learning Detection with Diverse Proposals](https://arxiv.org/pdf/1704.03533.pdf), CVPR, 2017.
 * R-FCN-3000:[[Code]](#)
   * Bharat Singh, Hengduo Li, Abhishek Sharma and Larry S. Davis,[R-FCN-3000 at 30fps: Decoupling Detection and Classification](https://arxiv.org/pdf/1712.01802.pdf), TBN, 2017.
 * Deformable CNN:[[Code]](https://github.com/msracver/Deformable-ConvNets)
