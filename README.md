@@ -56,6 +56,8 @@ A curated list of object proposals resources for object detection.
 
 #### Similarity Grouping
   ![SS](https://c2.staticflickr.com/4/3852/33003653872_6c034b1c93_o.jpg)
+* OLP [[Project]](#)
+  * Jianxiang Ma, Anlong Ming, Zilong Huang, Xinggang Wang, Yu Zhou, [Object-Level Proposals](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ma_Object-Level_Proposals_ICCV_2017_paper.pdf), ICCV, 2017.
 * CPMC [[Project]](http://home.isr.uc.pt/~joaoluis/cpmc/)
   * Joao Carreira and Cristian Sminchisescu, [Constrained Parametric Min-Cuts for Automatic Object Segmentation](http://home.isr.uc.pt/~joaoluis/papers/cvpr2010_2.pdf), CVPR, 2010.
   * Joao Carreira and Cristian Sminchisescu, [CPMC: Automatic Object Segmentation Using Constrained Parametric Min-Cuts](http://home.isr.uc.pt/~joaoluis/papers/PAMI2012.pdf), TPAMI, 2012.
@@ -152,6 +154,12 @@ A curated list of object proposals resources for object detection.
   * Cuong C. Pham and Jae Wook Jeon, [Robust Object Proposals Re-ranking for Object Detection in Autonomous Driving Using Convolutional Neural Networks](http://www.sciencedirect.com/science/article/pii/S0923596517300231), SPIC, 2017.
 
 #### Spatio-Temporal
+* TURN TAP [[Project]](https://github.com/jiyanggao/TURN-TAP)
+  * Jiyang Gao, Zhenheng Yang, Kan Chen, Chen Sun, Ram Nevatia, [TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals](http://openaccess.thecvf.com/content_ICCV_2017/papers/Gao_TURN_TAP_Temporal_ICCV_2017_paper.pdf), ICCV, 2017.
+* ReID Proposals [[Project_NULL]](#)
+  * Yantao Shen, Tong Xiao, Hongsheng Li, Shuai Yi, Xiaogang Wang, [Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf), ICCV, 2017.
+* Video Action Proposals [[Project_NULL]](#)
+  * Hongyuan Zhu, Romain Vial, Shijian Lu, [TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_TORNADO_A_Spatio-Temporal_ICCV_2017_paper.pdf), ICCV, 2017.
 * 3Dproposals [[Project]](http://lear.inrialpes.fr/~oneata/3Dproposals/)
   * Dan Oneata, Jerome Revaud, Jakob Verbeek, Cordelia Schmid, [Spatio-temporal Object Detection Proposals](https://hal.inria.fr/file/index/docid/1021902/filename/proof.pdf), ECCV, 2014.
 * STMOP [[Project]](https://www.cs.cmu.edu/~katef/videolearn.html)
