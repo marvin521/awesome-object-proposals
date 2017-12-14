@@ -176,6 +176,8 @@ A curated list of object proposals resources for object detection.
 
 #### Low-Level Processing
 ![Low-level](https://c2.staticflickr.com/4/3801/33163256395_fdfed8e710_c.jpg)
+* PSPNet [[Project]](https://github.com/hszhao/PSPNet)
+  * Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia, [PSPnet：Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105), CVPR, 2017.
 * Felzenszwalb's segmentation [[Project]](http://cs.brown.edu/~pff/segment/)
   * Pedro F. Felzenszwalb and Daniel P. Huttenlocher, [Efficient Graph-Based Image Segmentation](http://cs.brown.edu/~pff/papers/seg-ijcv.pdf), IJCV, 2004.
 * SLIC Superpixels [[Project]](http://ivrl.epfl.ch/research/superpixels)
