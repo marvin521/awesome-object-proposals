@@ -198,6 +198,10 @@ A curated list of object proposals resources for object detection.
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf), ECCV, 2014.
 * R-CNN [[Code]](https://github.com/rbgirshick/rcnn)
   * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524.pdf), CVPR, 2014.
+  
+#### Face Detection
+* Face R-FCN [[Code_NULL]](#)
+  * Yitong Wang, Xing Ji, Zheng Zhou, Hao Wang, Zhifeng Li, [Detecting Faces Using Region-based Fully Convolutional Networks](https://arxiv.org/abs/1709.05256), arxiv, 2017.
 
 ## Notes
 I hope this repository is helpful to everyone who're interested in this awesome topic. As Piotr Dollár said, it’s an amazing time to be doing research in object detection (and deep learning).
