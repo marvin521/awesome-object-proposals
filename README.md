@@ -138,6 +138,10 @@ A curated list of object proposals resources for object detection.
   * Shao Huang, Weiqiang Wang, Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals​](http://www.cs.cityu.edu.hk/~rynson/papers/tip17.pdf), TIP, 2017.
 * Elastic Edge Boxes
   * Jing Liu, Tongwei Ren, Yuantian Wang, Sheng-Hua Zhong, Jia Bei, Shengchao Chen, [Object proposal on RGB-D images via elastic edge boxes](http://www.sciencedirect.com/science/article/pii/S0925231216314266), Neurocomputing, 2017.
+* 3D Object Proposals[[Project]](http://www.cs.toronto.edu/objprop3d/)
+  * Xiaozhi Chen, Kaustav Kundu, Yukun Zhu, Andrew Berneshawi, Huimin Ma, Sanja Fidler, Raquel Urtasun, [3D Object Proposals for Accurate Object Class Detection], Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017.
+* Shao Huang,  Weiqiang Wang,  Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals], TIP, 2017.
+* Ramanpreet Singh Pahwa, Jiangbo Lu,  Nianjuan Jiang, Tian Tsong Ng, and Minh N. Do, [Locating 3D Object Proposals: A Depth-Based Online Approach]
 
 #### Re-ranking & Refinement
 ![Re-ranking](https://c1.staticflickr.com/3/2880/32318038054_53b1b453eb_c.jpg)
